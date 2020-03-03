@@ -1,0 +1,8 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "ng9-ngrx",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}

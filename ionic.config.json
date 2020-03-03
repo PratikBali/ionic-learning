@@ -1,5 +1,8 @@
 {
   "name": "ng9-ngrx",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
   "type": "angular"
 }
